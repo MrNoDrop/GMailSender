@@ -1,4 +1,4 @@
-## Created for sending emails used "smtp" of Google.
+## Created for sending emails; used "smtp" of Google.
 
 ```Java
 
